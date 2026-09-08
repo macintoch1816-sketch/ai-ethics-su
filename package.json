@@ -1,0 +1,8 @@
+{
+  "name": "ai-ethics-su",
+  "version": "1.0.0",
+  "description": "แพลตฟอร์มการเรียนรู้ AI Ethics มหาวิทยาลัยศิลปากร",
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0"
+  }
+}
